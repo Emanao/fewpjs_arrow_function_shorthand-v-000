@@ -1,4 +1,4 @@
-let divide = function(a,b)=>{
-  console.log(a+":"+b)
-  return (a/b)
+let divide = function(a,b){
+  console.log(a+":"+b);
+  return (a/b);
 };
