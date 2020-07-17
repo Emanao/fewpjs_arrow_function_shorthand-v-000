@@ -1,1 +1,1 @@
-let divide = (a,b)=>console.log(a/b);
+let divide = (a,b)=>console.log(a+":"+b);
