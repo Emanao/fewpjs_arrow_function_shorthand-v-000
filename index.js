@@ -1,1 +1,3 @@
-let divide = (a,b)=>console.log(a+":"+b);
+let divide = function(a,b)=>{
+  console.log(a+":"+b)
+};
